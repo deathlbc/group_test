@@ -1,3 +1,6 @@
+def division(x, y):
+    return x / y
+
 def square(a,b):
     return a**b
 
